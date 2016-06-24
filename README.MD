@@ -13,9 +13,6 @@ https://rawgit.com/komushi/spring-cloud-stream/master/gemfire-cq-source-rabbit-1
 ### Flat2tuple Processor using Rabbitmq messaging
 https://rawgit.com/komushi/spring-cloud-stream/master/Flat2TupleTransformer-0.0.1-SNAPSHOT.jar
 
-### Gemfire Sink using Rabbitmq messaging
-https://rawgit.com/komushi/spring-cloud-stream/master/gemfire-sink-rabbit-1.0.0.BUILD-SNAPSHOT.jar
-
 ## 3. Sinks
 
 ### Gemfire Sink using Rabbitmq messaging
